@@ -1,2 +1,2 @@
 #include <stdio.h>
-#inlcude <string.h>
+#include <string.h>
